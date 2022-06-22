@@ -1,15 +1,3 @@
-// var a,b, add, sub, mul, div;
-
-// a=parseInt(window.prompt("Enter first number"));
-// operation = add
-// b=parseInt(window.prompt("Enter second number"));
-
-// add=a+b;
-// sub=a-b;
-// mul=a*b;
-// div=a/b;
-
-// document.write()
 
 function calc ()
 {
